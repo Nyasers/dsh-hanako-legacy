@@ -1,4 +1,6 @@
-# DSHana
+# DSHana Legacy
+
+> This is a archieve of the legacy version [DSHana](https://github.com/Nyasers/dsh-hanako)
 
 插件 id：`dsh-hanako`。把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（dsh）接进 Hana，作为进程外 subagent 使用。任务执行走 **dsh web host**（`--profile web`），dsh 官方 Web UI 以 **DSHana 标签页**内嵌在 Hana 顶部，可见全部任务会话；账本与依赖锁进插件数据目录。
 
